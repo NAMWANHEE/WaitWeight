@@ -10,7 +10,6 @@
 
 더 이상 눈치보지 말고 운동하세요!!
 
-![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/56f87c9a-d4a6-40c3-8c4a-3a72d0945d9d)
 
 
 ## 💡 주요기능
@@ -110,7 +109,7 @@
 ### 기구 검색 페이지(사용자)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/37424d38-cddb-498c-9206-e38dbb70145a" width="500" height="700"/>
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/e0244ba8-0502-46f9-bdbe-fc76416fb0a5" width="500" height="700"/>
 
 
 </p>
