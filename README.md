@@ -1,4 +1,4 @@
-# WaitWeight
+![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/6b485702-5f9a-490a-82d6-0628db8f08ff)# WaitWeight
 
 > 💪태그 장치를 활용한 헬스장 기구 실시간 예약 IoT 서비스💪
 
@@ -88,7 +88,7 @@
 
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/92274836-c21c-4eab-bfc1-995432bc1d2a">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/92274836-c21c-4eab-bfc1-995432bc1d2a" width="500" height="700">
 
 </p>
 
@@ -99,7 +99,7 @@
 ### 운동기록 월별 통계 페이지(사용자)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/3db3b611-183f-4c2e-8a0d-c9724ca52885"/>
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/3db3b611-183f-4c2e-8a0d-c9724ca52885" width="500" height="700"/>
 
 
 </p>
@@ -110,7 +110,7 @@
 ### 기구 검색 페이지(사용자)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/37424d38-cddb-498c-9206-e38dbb70145a"/>
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/37424d38-cddb-498c-9206-e38dbb70145a" width="500" height="700"/>
 
 
 </p>
