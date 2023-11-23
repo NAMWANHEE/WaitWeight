@@ -120,7 +120,7 @@
 
 ### dd
 
-![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/da0de623-c332-495b-b9a0-db0a6cfd81f8)
+![image](https://velog.velcdn.com/images/wanhee4734/post/a81fb21e-aeba-4bef-ac9e-851d95b5e717/image.gif)
 
 
 ## 🐳 아키텍처
