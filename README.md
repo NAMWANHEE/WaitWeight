@@ -45,7 +45,7 @@
 ### 회원관리 페이지(관리자)
 
 <p align="center">  
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/1df00cdd-9b8d-466b-946a-d3a46b01d32d"  >
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/d8126712-e597-4e9c-b32c-e220a66076e4"  >
 
 
 </p>
@@ -56,7 +56,7 @@
 
 ### 기구관리 페이지(관리자)
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/1713206b-3040-4f6e-9896-68ee96dec6cb"  >
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/e67f0a26-d8bd-4c90-8a8e-2fe135de879a"  >
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ### 이용현황 페이지(관리자)
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/a6d559b4-114e-4a73-95d6-bf26b6fce34b"  >
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/ca510c62-1646-4e5a-87d7-e8dcfc8f2caf"  >
 </p>
 
 ---
