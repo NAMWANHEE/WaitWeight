@@ -122,7 +122,7 @@
 
 
 <p align="center">
-<img src="https://velog.velcdn.com/images/wanhee4734/post/a81fb21e-aeba-4bef-ac9e-851d95b5e717/image.gif" width="1000" height="700"/>
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/03e990b7-6f8e-4679-9c6e-fd98e320244d" width="1000" height="700"/>
 
 
 </p>
