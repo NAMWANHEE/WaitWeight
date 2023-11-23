@@ -119,9 +119,9 @@
 
 
 ### dd
-<p align="center">
+
 ![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/da0de623-c332-495b-b9a0-db0a6cfd81f8)
-</p>
+
 
 ## 🐳 아키텍처
 
