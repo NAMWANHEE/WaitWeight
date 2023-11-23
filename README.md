@@ -122,7 +122,7 @@
 
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/03e990b7-6f8e-4679-9c6e-fd98e320244d" width="1000" height="700"/>
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/a3069d1e-787a-4690-981a-b889308ea8c7" width="1000" height="700"/>
 
 
 </p>
