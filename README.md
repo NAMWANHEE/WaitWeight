@@ -1,4 +1,3 @@
-![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/6b485702-5f9a-490a-82d6-0628db8f08ff)# WaitWeight
 
 > 💪태그 장치를 활용한 헬스장 기구 실시간 예약 IoT 서비스💪
 
@@ -118,6 +117,11 @@
 
 ![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/83ca32f8-bbae-4345-b2d5-713ccffbcb73)
 
+
+### dd
+<p align="center">
+![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/da0de623-c332-495b-b9a0-db0a6cfd81f8)
+</p>
 
 ## 🐳 아키텍처
 
