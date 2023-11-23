@@ -120,8 +120,12 @@
 
 ### dd
 
-![](https://velog.velcdn.com/images/wanhee4734/post/a81fb21e-aeba-4bef-ac9e-851d95b5e717/image.gif)
 
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/55c95cf2-9e84-4250-a566-fa5a1217ab56" width="1000" height="700"/>
+
+
+</p>
 
 ## 🐳 아키텍처
 
