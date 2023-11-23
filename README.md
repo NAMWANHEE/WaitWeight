@@ -120,7 +120,7 @@
 
 ### dd
 
-![image](https://velog.velcdn.com/images/wanhee4734/post/a81fb21e-aeba-4bef-ac9e-851d95b5e717/image.gif)
+![](https://velog.velcdn.com/images/wanhee4734/post/a81fb21e-aeba-4bef-ac9e-851d95b5e717/image.gif)
 
 
 ## 🐳 아키텍처
