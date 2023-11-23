@@ -74,49 +74,13 @@
 ### 대기현황 페이지(공통)
 
 <p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/88394b54-0d1f-405f-aaf0-b7899ed00a95">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/8cbb76cb-5baa-4228-acf6-b6fc487637c9">
 
 
 </p>
 
 ---
 <br>
-
-### 운동기록 조회 페이지(사용자)
-
-
-<p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/92274836-c21c-4eab-bfc1-995432bc1d2a" width="500" height="700">
-
-</p>
-
----
-<br>
-
-
-### 운동기록 월별 통계 페이지(사용자)
-
-<p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/3db3b611-183f-4c2e-8a0d-c9724ca52885" width="500" height="700"/>
-
-
-</p>
-
----
-<br>
-
-### 기구 검색 페이지(사용자)
-
-<p align="center">
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/e0244ba8-0502-46f9-bdbe-fc76416fb0a5" width="500" height="700"/>
-
-
-</p>
-
-## 태그 로직 Flow Chart
-
-![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/83ca32f8-bbae-4345-b2d5-713ccffbcb73)
-
 
 ## 기구 사용 태그
 
@@ -162,6 +126,43 @@
 
 
 </p>
+
+### 운동기록 조회 페이지(사용자)
+
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/b208b04c-9111-4ab8-bc7c-fdc149213576" width="500" height="700">
+
+</p>
+
+---
+<br>
+
+
+### 운동기록 월별 통계 페이지(사용자)
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/ceb270f4-a4da-4b23-a6e0-bde05432853a" width="500" height="700"/>
+
+
+</p>
+
+---
+<br>
+
+### 기구 검색 페이지(사용자)
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/e401deea-6a68-4979-b1a0-5b6a36c9203b" width="500" height="700"/>
+
+
+</p>
+
+## 태그 로직 Flow Chart
+
+![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/83ca32f8-bbae-4345-b2d5-713ccffbcb73)
+
+
 
 ## 🐳 아키텍처
 
