@@ -35,7 +35,7 @@
 
 <p align="center">  
 
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/3d27fbca-f046-4e0b-94b6-a5b9798e8783">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/6add2c84-6bf6-4bb6-a692-334ee23aa7c2">
 
 </p>
 
@@ -118,11 +118,47 @@
 ![image](https://github.com/NAMWANHEE/WaitWeight/assets/76835981/83ca32f8-bbae-4345-b2d5-713ccffbcb73)
 
 
-### dd
+## 기구 사용 태그
 
 
 <p align="center">
 <img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/a3069d1e-787a-4690-981a-b889308ea8c7" width="1000" height="700"/>
+
+
+</p>
+
+## 기구 예약 태그
+
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/4478ace9-a5b5-42d8-be8b-457c92be064d" width="1000" height="700"/>
+
+
+</p>
+
+## 기구 예약 변경 태그
+
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/711011bc-058e-45cf-87cb-cbb25e1d8556" width="1000" height="700"/>
+
+
+</p>
+
+## 기구 종료 태그 및 다음 차례 알림
+
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/16c27b15-c072-4d90-92a3-cfc23704250a" width="1000" height="700"/>
+
+
+</p>
+
+## 다음 예약자 노쇼 
+
+
+<p align="center">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/e21ea5da-43e4-43a3-a863-ebf5b91753d6" width="1000" height="700"/>
 
 
 </p>
