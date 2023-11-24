@@ -39,7 +39,7 @@
 
 <p align="center">  
 
-<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/6add2c84-6bf6-4bb6-a692-334ee23aa7c2">
+<img src="https://github.com/NAMWANHEE/WaitWeight/assets/76835981/22a68ad1-2a4c-4329-9688-d25d6fcc2114">
 
 </p>
 
